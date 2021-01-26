@@ -1,0 +1,46 @@
+#first h1 {
+  font-family: "Lobster", cursive;
+  text-align: center;
+  font-size: 80px;
+}
+span {
+  color: red;
+}
+#second h2 {
+  font-family: "Lobster", cursive;
+  font-size: 55px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border-radius: 20px;
+}
+/* This paragraph is under the image 
+#underPicture {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 3em;
+}
+I combined this one with next paragraph so we don't need it anymore */
+#first p {
+  margin-top: 3em;
+  font-size: 20px;
+  text-align: center;
+}
+#lastLine {
+  text-align: center;
+}
+span a {
+  text-decoration: none;
+  color: red;
+}
+ul {
+  font-size: 18px;
+  line-height: 1.5;
+}
+body {
+  background: black;
+  color: #fff;
+}
